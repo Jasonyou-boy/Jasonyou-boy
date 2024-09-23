@@ -13,6 +13,7 @@
 - https://github.com/
 - https://spring.io/quickstart
 - https://dev.mysql.com/doc/refman/8.0/en/
+- https://www.rfc-editor.org/
 
 > [!TIP]
 > **高端的技术往往要我细嚼慢咽，取其精华去其糟粕。** 很庆幸，（大师！！）我悟了，哈哈。虽然我很菜，菜就多练。
